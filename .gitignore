@@ -1,0 +1,16 @@
+# データファイル
+*.csv
+*.zip
+*.json
+
+# Jupyter チェックポイント
+.ipynb_checkpoints/
+
+# Python キャッシュ
+__pycache__/
+*.pyc
+
+# 環境
+.env
+.venv/
+venv/
